@@ -68,5 +68,4 @@ while running:
     if try_again != 'yes':
         display_info(my_account)
         print("\n\nThanks for using PYTHON BANK.....")
-        running = False
-        
+        running = False 
